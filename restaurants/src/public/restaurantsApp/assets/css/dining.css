@@ -1,0 +1,13 @@
+.gray {
+	background-color: #F5F5F5;
+}
+
+.light-gray {
+	background-color: #F8F8F8;
+	height: 500px;
+}
+
+.margin-search {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
